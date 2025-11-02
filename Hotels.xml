@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
-  <Hotel Id="1" Rating="4.2">
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://cjkehoe.github.io/cse445-a4/Hotels.xsd">
+  <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
@@ -10,11 +10,11 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
+      <NearestAirport>Sky Habor</NearestAirport>
     </Address>
   </Hotel>
 
-  <Hotel Id="2" Rating="4.1">
+  <Hotel Rating="4.1">
     <Name>Tempe Mission Palms</Name>
     <Phone>480-894-1400</Phone>
     <Phone>800-547-8705</Phone>
@@ -28,7 +28,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="3">
+  <Hotel>
     <Name>Hyatt Place Tempe/Phoenix Airport</Name>
     <Phone>480-804-9544</Phone>
     <Address>
@@ -41,7 +41,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="4" Rating="4.0">
+  <Hotel Rating="4.0">
     <Name>Courtyard by Marriott Tempe Downtown</Name>
     <Phone>480-966-2800</Phone>
     <Address>
@@ -54,7 +54,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="5">
+  <Hotel>
     <Name>AC Hotel Phoenix Tempe/Downtown</Name>
     <Phone>480-642-6140</Phone>
     <Address>
@@ -67,7 +67,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="6" Rating="4.0">
+  <Hotel Rating="4.0">
     <Name>Hilton Garden Inn Phoenix-Tempe ASU Area</Name>
     <Phone>480-804-7771</Phone>
     <Address>
@@ -80,7 +80,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="7">
+  <Hotel>
     <Name>Graduate Tempe</Name>
     <Phone>480-967-9431</Phone>
     <Address>
@@ -93,7 +93,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="8" Rating="3.9">
+  <Hotel Rating="3.9">
     <Name>Sheraton Phoenix Airport Hotel Tempe</Name>
     <Phone>480-967-6600</Phone>
     <Address>
@@ -106,7 +106,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="9">
+  <Hotel>
     <Name>Residence Inn Tempe Downtown/University</Name>
     <Phone>480-967-2300</Phone>
     <Address>
@@ -119,7 +119,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="10" Rating="4.0">
+  <Hotel Rating="4.0">
     <Name>Aloft Tempe</Name>
     <Phone>480-621-3300</Phone>
     <Address>
@@ -132,7 +132,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="11">
+  <Hotel>
     <Name>Moxy Phoenix Tempe/ASU Area</Name>
     <Phone>480-968-3451</Phone>
     <Address>
